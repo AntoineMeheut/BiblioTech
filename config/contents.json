@@ -1,0 +1,122 @@
+[
+  {
+    "id": "gutenberg_fr_all_2026-01",
+    "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_fr_all_2026-01.zim",
+    "source": "https://browse.library.kiwix.org/viewer#gutenberg_fr_all_2026-01",
+    "bytes": 10534730590,
+    "sha256": "b069f54de2b004ad3e12be583895aaea0d22b449b88081af2b1bff3d6d0321aa",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "ifixit_fr_all_2026-03",
+    "url": "https://download.kiwix.org/zim/ifixit/ifixit_fr_all_2026-03.zim",
+    "source": "https://browse.library.kiwix.org/viewer#ifixit_fr_all_2026-03",
+    "bytes": 3652280723,
+    "sha256": "f49e4fec388a61b95b8c6738421d51f9716030fd34bd6683fc55be8d6e490da7",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "breizhpartitions_fr_all_2026-02",
+    "url": "https://download.kiwix.org/zim/zimit/breizhpartitions_fr_all_2026-02.zim",
+    "source": "https://browse.library.kiwix.org/viewer#breizhpartitions_fr_all_2026-02",
+    "bytes": 5655987325,
+    "sha256": "b8840acd14b5a24744d9046c1ddb6e88133267c795b097013b7a74a77b2aaccb",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "cuisinelibre.org_fr_all_2026-08",
+    "url": "https://download.kiwix.org/zim/other/cuisinelibre.org_fr_all_2026-08.zim",
+    "source": "https://browse.library.kiwix.org/viewer#cuisinelibre.org_fr_all_2026-08",
+    "bytes": 255952380,
+    "sha256": "01fe411fc5fdb40ffc532be5bc79c7382c1b779e7f57750577a254438f417767",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "bouquineux.com_fr_all_2025-12",
+    "url": "https://download.kiwix.org/zim/zimit/bouquineux.com_fr_all_2025-12.zim",
+    "source": "https://browse.library.kiwix.org/viewer#bouquineux.com_fr_all_2025-12",
+    "bytes": 5951945213,
+    "sha256": "9df77b60a05fab6e4fa331090cd762e2222b787bccbeb7d4f56de3e95c90d95e",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "solar.lowtechmagazine.com_mul_all_2025-01",
+    "url": "https://download.kiwix.org/zim/zimit/solar.lowtechmagazine.com_mul_all_2025-01.zim",
+    "source": "https://browse.library.kiwix.org/viewer#solar.lowtechmagazine.com_mul_all_2025-01",
+    "bytes": 700555670,
+    "sha256": "0a21bde8e3be3b80b8b7dea13118fb2190a60274f2341a5b72715f89fd049740",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "www.solidarite-numerique.fr_fr_all_2025-11",
+    "url": "https://download.kiwix.org/zim/zimit/www.solidarite-numerique.fr_fr_all_2025-11.zim",
+    "source": "https://browse.library.kiwix.org/viewer#www.solidarite-numerique.fr_fr_all_2025-11",
+    "bytes": 219682355,
+    "sha256": "d3cf13c4cbcd24db9eb968270497521b17eed4fa7e8f160d17589a1aa851cae2",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "psiram_fr_all_maxi_2026-08",
+    "url": "https://download.kiwix.org/zim/other/psiram_fr_all_maxi_2026-08.zim",
+    "source": "https://browse.library.kiwix.org/viewer#psiram_fr_all_maxi_2026-08",
+    "bytes": 296604997,
+    "sha256": "fe8ff4659b75e47e03af29cf636fe7f46f849c0e1c5d19029dbd434c491d2edf",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "wikibooks_fr_all_maxi_2026-10",
+    "url": "https://download.kiwix.org/zim/wikibooks/wikibooks_fr_all_maxi_2026-10.zim",
+    "source": "https://browse.library.kiwix.org/viewer#wikibooks_fr_all_maxi_2026-10",
+    "bytes": 1151934271,
+    "sha256": "55443b4673668168d19e770df124f955e94e6ee6621ae3742b9bd718ee5c739f",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "wikipedia_fr_all_maxi_2026-05",
+    "url": "https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_maxi_2026-05.zim",
+    "source": "https://browse.library.kiwix.org/viewer#wikipedia_fr_all_maxi_2026-05",
+    "bytes": 55438794004,
+    "sha256": "61401b1b3618afe736450a868c7205f572f590db310e044a9c72b51fbfcfb431",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "wikiquote_fr_all_maxi_2026-08",
+    "url": "https://download.kiwix.org/zim/wikiquote/wikiquote_fr_all_maxi_2026-08.zim",
+    "source": "https://browse.library.kiwix.org/viewer#wikiquote_fr_all_maxi_2026-08",
+    "bytes": 113615892,
+    "sha256": "3c75e7092c4e24bc26add7e1bf5822e39ef88c83be5ef182f5ce0f49e3f7225d",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "wikisource_fr_all_maxi_2025-09",
+    "url": "https://download.kiwix.org/zim/wikisource/wikisource_fr_all_maxi_2025-09.zim",
+    "source": "https://browse.library.kiwix.org/viewer#wikisource_fr_all_maxi_2025-09",
+    "bytes": 15680108682,
+    "sha256": "15d2d80a3a13e98937e0064a14d0ff35a04735ef86cd6f486e977a9953d69712",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "wikiversity_fr_all_maxi_2026-08",
+    "url": "https://download.kiwix.org/zim/wikiversity/wikiversity_fr_all_maxi_2026-08.zim",
+    "source": "https://browse.library.kiwix.org/viewer#wikiversity_fr_all_maxi_2026-08",
+    "bytes": 508525464,
+    "sha256": "d5f466114126cae3b203813a3af54a6bcab9679c4ea3ec153b7616caf48474b0",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "wikivoyage_fr_all_maxi_2026-07c",
+    "url": "https://download.kiwix.org/zim/wikivoyage/wikivoyage_fr_all_maxi_2026-07c.zim",
+    "source": "https://browse.library.kiwix.org/viewer#wikivoyage_fr_all_maxi_2026-07c",
+    "bytes": 249456677,
+    "sha256": "f87c06e8f261881dc3640a8f384e2692a7b2008d9dc4969da275aad0afa58086",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "wiktionary_fr_all_nopic_2026-08",
+    "url": "https://download.kiwix.org/zim/wiktionary/wiktionary_fr_all_nopic_2026-08.zim",
+    "source": "https://browse.library.kiwix.org/viewer#wiktionary_fr_all_nopic_2026-08",
+    "bytes": 4935856722,
+    "sha256": "d44f79ef836f8bbc464f9369e1b8b8bdfced95968b42d15813579975c03f785b",
+    "verified": "2026-10-17"
+  }
+]

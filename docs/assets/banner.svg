@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">BiblioTech — Le savoir. Hors ligne.</title>
+  <desc id="desc">Bannière cyberpunk jaune acide, cyan et noir : une bibliothèque Wi-Fi autonome sur Raspberry Pi Zero W, illustrée par un circuit électronique et des ondes radio.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1c2c33" stroke-width="1"/></pattern>
+    <pattern id="hatch" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><rect width="4" height="12" fill="#101419"/></pattern>
+    <linearGradient id="radio" x1="0" x2="1"><stop stop-color="#00edf2"/><stop offset="1" stop-color="#00edf2" stop-opacity="0.15"/></linearGradient>
+  </defs>
+  <path fill="#0a1016" d="M0 0H1244L1280 36V520H34L0 486Z"/>
+  <path fill="url(#grid)" d="M735 0H1244L1280 36V520H735Z"/>
+  <path fill="#fcee0a" d="M0 0H734L772 38V82H748V392L715 425H0Z"/>
+  <path fill="#fcee0a" d="M746 108H762V175H746ZM746 190H753V217H746"/>
+  <rect x="48" y="36" width="11" height="11" fill="#111820"/>
+  <text x="74" y="47" fill="#111820" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">ARCHIVE AUTONOME // RPI_00W</text>
+  <path d="M48 67H682" stroke="#111820" stroke-width="1" opacity="0.35"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900" letter-spacing="-6">
+    <text x="42" y="208" fill="#111820" font-size="106">BiblioTech</text>
+    <text x="44" y="209" fill="#e4267e" opacity="0.7" font-size="106" clip-path="url(#glitch)" >BiblioTech</text>
+  </g>
+  <defs><clipPath id="glitch"><rect x="0" y="160" width="740" height="4"/><rect x="0" y="187" width="740" height="3"/></clipPath></defs>
+  <path d="M46 225H190L206 241H315" fill="none" stroke="#111820" stroke-width="5"/>
+  <text x="332" y="244" fill="#111820" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-style="italic" font-size="30" letter-spacing="7">ARCHIVES</text>
+  <text x="48" y="319" fill="#111820" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800" letter-spacing="-0.4">LE SAVOIR. HORS LIGNE.</text>
+  <text x="49" y="355" fill="#283039" font-family="Arial, Helvetica, sans-serif" font-size="18">Une bibliothèque. Une carte. Votre propre réseau.</text>
+  <rect x="48" y="383" width="116" height="8" fill="url(#hatch)"/>
+  <text x="181" y="391" fill="#111820" font-family="monospace" font-size="13" letter-spacing="1">15 COLLECTIONS / EUROPE / OPEN SOURCE</text>
+  <!-- Schéma original de la carte électronique ; aucun logo tiers. -->
+  <g fill="none" stroke="#00edf2" stroke-width="2">
+    <path d="M836 269V198L886 148H1080L1132 200V326L1081 377H885L836 328Z" opacity="0.3"/>
+    <path d="M859 211L887 183H1081L1110 212V315L1081 344H888L859 315Z" fill="#0d1b23"/>
+    <path d="M874 200H924M1045 200H1095M874 327H921M1045 327H1095" opacity="0.6"/>
+    <path d="M913 236H1058V294H913Z" fill="#122832"/>
+    <path d="M927 247H1044V282H927Z" opacity="0.45"/>
+    <path d="M850 239H808L790 221M850 276H799L775 300M1120 239H1170L1208 201M1120 276H1179L1208 305" opacity="0.5"/>
+    <path d="M932 183V150M949 183V150M966 183V150M983 183V150M1000 183V150M1017 183V150M1034 183V150" opacity="0.7"/>
+    <path d="M932 344V372M949 344V372M966 344V372M983 344V372M1000 344V372M1017 344V372M1034 344V372" opacity="0.7"/>
+    <circle cx="879" cy="216" r="5"/><circle cx="1090" cy="216" r="5"/>
+    <circle cx="879" cy="310" r="5"/><circle cx="1090" cy="310" r="5"/>
+    <path d="M930 116Q983 64 1036 116M950 132Q983 100 1016 132" stroke="url(#radio)" stroke-width="4"/>
+    <circle cx="983" cy="143" r="4" fill="#00edf2"/>
+  </g>
+  <text x="985" y="271" text-anchor="middle" fill="#00edf2" font-family="monospace" font-size="17" font-weight="700" letter-spacing="3">ZERO W</text>
+  <rect x="1131" y="64" width="90" height="26" fill="#ef287d"/>
+  <text x="1176" y="82" text-anchor="middle" fill="#0a1016" font-family="monospace" font-size="12" font-weight="700">ARMv6</text>
+  <text x="985" y="415" text-anchor="middle" fill="#00edf2" font-family="monospace" font-size="17" letter-spacing="2">10.42.0.1</text>
+  <text x="985" y="440" text-anchor="middle" fill="#82939d" font-family="monospace" font-size="12" letter-spacing="2">POINT D'ACCÈS LOCAL</text>
+  <path d="M48 458H704L724 478H1232" fill="none" stroke="#283740"/>
+  <text x="48" y="490" fill="#8b9ca5" font-family="monospace" font-size="13" letter-spacing="1.5">KNOWLEDGE WITHOUT UPLINK_</text>
+  <text x="1232" y="500" text-anchor="end" fill="#00edf2" font-family="monospace" font-size="12" letter-spacing="2">LOCAL FIRST // 32 BIT</text>
+  <path d="M0 444H8V484L36 512H92" fill="none" stroke="#ef287d" stroke-width="2"/>
+  <path d="M1190 0H1244L1280 36V90" fill="none" stroke="#00edf2" stroke-width="2"/>
+</svg>

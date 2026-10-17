@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="290" viewBox="0 0 1280 290" role="img" aria-labelledby="title desc">
+  <title id="title">Architecture du réseau hors ligne</title>
+  <desc id="desc">Un ordinateur prépare la carte et éventuellement les ZIM. Les fichiers sont transférés sur le Raspberry Pi, qui sert Kiwix et la carte en Wi-Fi aux navigateurs des lecteurs.</desc>
+  <rect width="1280" height="290" rx="8" fill="#0a1016"/>
+  <text x="40" y="40" fill="#fcee0a" font-family="monospace" font-size="14" letter-spacing="2">TOPOLOGIE // DU FICHIER AU LECTEUR</text>
+  <path d="M40 58H1240" stroke="#23323c"/>
+  <g fill="#101e27" stroke="#29404d"><path d="M40 88H330L350 108V238H40Z"/><path d="M483 88H777L797 108V238H483Z"/><path d="M930 88H1220L1240 108V238H930Z"/></g>
+  <g font-family="monospace" font-size="12" letter-spacing="2" fill="#fcee0a"><text x="62" y="118">01 / PRÉPARER</text><text x="505" y="118">02 / SERVIR</text><text x="952" y="118">03 / CONSULTER</text></g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#e4edf0"><text x="62" y="157">Ordinateur</text><text x="505" y="157">Raspberry Pi Zero W</text><text x="952" y="157">Téléphone · PC</text></g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#a5b8c1"><text x="62" y="190">Europe → PMTiles</text><text x="62" y="216">ZIM → téléchargement en option</text><text x="505" y="190">Kiwix + nginx + stockage</text><text x="505" y="216">Point d'accès 2,4 GHz · WPA2</text><text x="952" y="190">Un navigateur, sans compte</text><text x="952" y="216">http://10.42.0.1/</text></g>
+  <g stroke="#00edf2" stroke-width="2" fill="none"><path d="M366 166H462L452 156M462 166L452 176"/><path d="M813 166H909L899 156M909 166L899 176"/></g>
+  <g fill="#00edf2" font-family="monospace" font-size="11" text-anchor="middle"><text x="415" y="145">TRANSFERT</text><text x="860" y="145">WI-FI</text></g>
+  <text x="40" y="269" fill="#718a98" font-family="monospace" font-size="12">Internet pour préparer les données. Consultation locale une fois les fichiers installés.</text>
+</svg>

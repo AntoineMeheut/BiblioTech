@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080d12">
+  <title>Carte de l’Europe — BiblioTech</title>
+  <link rel="stylesheet" href="../vendor/maplibre-gl.css">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body class="map-page">
+  <header class="map-header">
+    <a href="/">← Archives</a>
+    <h1>CARTE DE L’EUROPE</h1>
+    <button id="overview" type="button">Vue d’ensemble</button>
+  </header>
+  <div id="status" role="status">Chargement de la carte locale…</div>
+  <div id="map" aria-label="Carte interactive de l’Europe"></div>
+  <script src="../vendor/maplibre-gl.js"></script>
+  <script src="../vendor/pmtiles.js"></script>
+  <script src="map.js"></script>
+</body>
+</html>

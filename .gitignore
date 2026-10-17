@@ -1,0 +1,35 @@
+# Configuration privée
+config.env
+.env
+.env.*
+!.env.example
+*.local.env
+*.pem
+*.key
+
+# Données et dépendances régénérables
+/data/
+/build/
+/dist/
+/web/vendor/
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.part
+*.zim
+*.zim??
+*.pmtiles
+*.mbtiles
+*.osm.pbf
+*.osm.pbf.*
+*.jar
+*.log
+
+# Fichiers de travail locaux
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~

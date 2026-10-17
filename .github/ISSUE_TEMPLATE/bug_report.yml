@@ -1,0 +1,34 @@
+name: Signaler un problème
+description: Décrire un échec d’installation ou un comportement inattendu.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Merci de fournir les détails utiles à la reproduction. Retirez les mots de passe et autres informations personnelles des journaux."
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environnement
+      description: Modèle de Pi, version de Raspberry Pi OS, architecture, stockage et connexion réseau.
+      placeholder: "Pi Zero W · Raspberry Pi OS Lite Trixie 32 bits · microSD ext4"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Étapes pour reproduire
+      description: Commande exacte et étapes qui provoquent le problème.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Résultat attendu et résultat observé
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Journaux pertinents
+      description: Ajouter seulement les lignes utiles, après retrait des données privées.
+      render: text
